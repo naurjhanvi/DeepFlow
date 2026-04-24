@@ -3,7 +3,7 @@
 **DeepFlow** is a Chrome extension that preserves your browser context (open tabs + optional note) so you never lose your flow during deep work.  
 One-click "Enter Focus Mode" auto-saves everything — interrupt as much as you want — then restore instantly later.
 
-Built as a 2-day MVP with WXT, React, and TypeScript.( It's still in prototype state).
+Built as a 2-day MVP with WXT, React, and TypeScript.( It's still in prototype state v2).
 
 ## Demo
 ▶️ [Watch Demo Video](https://drive.google.com/file/d/1B0K13YE20oVKzU2_CZw8ASQZplcMFj90/view?usp=drivesdk)
